@@ -3,15 +3,7 @@
 
 <head>
     <title>Proyecto de Predicción de Condiciones Climáticas y Precipitación Anual</title>
-    <style>
-        body {
-            background-image: url('imagen_python_01.png');
-            background-size: cover;
-            background-attachment: fixed;
-            background-repeat: no-repeat;
-            background-color: rgba(255, 255, 255, 0.8); /* Ajusta la transparencia aquí */
-        }
-    </style>
+   
 </head>
 
 <body>
