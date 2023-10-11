@@ -20,7 +20,6 @@
 
     <h1>Proyecto de Predicción de Condiciones Climáticas y Precipitación Anual</h1>
 
-
     <h2>Descripción</h2>
     <p>Este proyecto forma parte de mi curso de especialización en inteligencia artificial en la <a href="https://www.tokioschool.com/">Tokio School</a> y tiene como objetivo predecir condiciones climáticas y la precipitación anual en diferentes regiones. Para lograr esto, utilizamos datos climáticos de múltiples fuentes, incluyendo datos de países nórdicos y datos climáticos históricos de España.</p>
 
@@ -78,3 +77,4 @@
 </body>
 
 </html>
+
